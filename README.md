@@ -125,7 +125,8 @@ EXPO_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+Need help?
+Join our AI Tech Community - https://tally.so/r/wAW1aB
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
